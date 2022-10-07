@@ -1,11 +1,11 @@
 https://www.w3schools.com/w3css/tryw3css_templates_band.htm
 
 1. Phân tích --> Done
-	1. Header
-	2. Slider
+	1. Header --> Done
+	2. Slider --> Done
 	3. Content
-		1. About
-		2. Tour
+		1. About --> Done
+		2. Tour --> Done
 		3. Contact
 		4. Image
 	4. Footer
